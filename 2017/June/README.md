@@ -3,7 +3,7 @@
 Agenda:
 
 * [Meeting Agenda](https://github.com/powershellorguk/Scotland/blob/master/2017/June/MeetingAgenda.pptx);
-* Presentation - [Be A Good PowerShell Citizen](https://github.com/pauby/presentations/blob/master/ScotPSDevopsUG/20170621) - [Paul Broadwith](https://pauby.com "Paul Broadwith Blog");
+* Presentation - [Be A Good PowerShell Citizen](https://github.com/pauby/presentations/tree/master/ScotPSDevopsUG/20170621) - [Paul Broadwith](https://pauby.com "Paul Broadwith Blog");
 
 Scottish PowerShell & DevOps User Group:
 

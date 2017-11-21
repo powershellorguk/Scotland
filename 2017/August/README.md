@@ -3,7 +3,7 @@
 Agenda:
 
 * [Meeting Agenda](https://github.com/powershellorguk/Scotland/blob/master/2017/August/MeetingAgenda.pptx);
-* Presentation - [Validate Your PowerShell Parameters With Enums](https://github.com/pauby/presentations/tree/master/ScotPSDevopsUG/20170830) - [Paul Broadwith](https://pauby.com "Paul Broadwith Blog");
+* Presentation - [Validate Your PowerShell Parameters With Enums](https://github.com/pauby/presentations/tree/master/ScotPSDevOpsUG/20170830) - [Paul Broadwith](https://pauby.com "Paul Broadwith Blog");
 
 Scottish PowerShell & DevOps User Group:
 
